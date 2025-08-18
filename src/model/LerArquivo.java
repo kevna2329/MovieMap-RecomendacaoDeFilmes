@@ -1,15 +1,22 @@
 package model;
 
 import enums.TipoAresta;
-
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.*;
+
 public class LerArquivo {
+    String caminhoArquivo;
 
-    public Grafo lerArquivo(Grafo grafo){
+    public LerArquivo(String caminhoArquivo) {
+        this.caminhoArquivo = caminhoArquivo;
+    }
 
-        InputStream inputStream = LerArquivo.class.getResourceAsStream("/resources/filmes_brasileiros.csv");
+    public Grafo getDados(){
+        Grafo grafo = new Grafo();
+        InputStream inputStream = LerArquivo.class.getResourceAsStream(caminhoArquivo);
 
         try {
             BufferedReader br = new BufferedReader(new InputStreamReader(inputStream));
@@ -18,10 +25,9 @@ public class LerArquivo {
             int nVertices = Integer.parseInt(br.readLine().trim());
             // Lista para armazenar os filmes
             ArrayList<Filme> filmes = new ArrayList<>();
-            ArrayList<String> arestas = new ArrayList<>();
 
             // Lendo os filmes
-            for (int i = 1; i < nVertices; i++) {
+            for (int i = 0; i < nVertices; i++) {
                 String linha = br.readLine();
                 String[] partes = linha.split(";");
                 String nome = partes[0];
@@ -37,7 +43,6 @@ public class LerArquivo {
             }
 
             // Lista para armazenar as arestas (ligações entre filmes)
-
             int nArestas = Integer.parseInt(br.readLine().trim());
             for (int i = 0; i < nArestas; i++)  {
                 String linha = br.readLine();

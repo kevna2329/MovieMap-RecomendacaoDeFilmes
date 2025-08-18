@@ -3,14 +3,13 @@ import enums.TipoAresta;
 import java.util.ArrayList;
 
 public class Filme {
-    private String nome;
-    private int ano;
-    private String genero;
-    private String descricao;
-    private ArrayList<String> atores;
+    private final String nome;
+    private final int ano;
+    private final String genero;
+    private final String descricao;
+    private final ArrayList<String> atores;
 
     private ArrayList<Aresta> relacionadosPorGenero = new ArrayList<>();
- // lembrar de trocar
     private ArrayList<Aresta> relacionadosPorAtor = new ArrayList<>();
 
     public Filme(String nome, int ano, String genero, String descricao, ArrayList<String> atores) {
@@ -36,40 +35,21 @@ public class Filme {
         }
     }
 
-    /*public void imprimirVertice() {
-        for (Filme filme : relacionadosPorAtor){
-            System.out.println(filme);
-        }
-    }*/
+    //Getters: --------------------
+    public String getNome() {return nome;}
+    public int getAno() {return ano;}
+    public String getGenero() {return genero;}
+    public String getDescricao() {return descricao;}
+    public ArrayList<String> getAtores() {return atores;}
+    //--------------------
 
     @Override
-    public String toString() {
+    public String toString() { //impressão de Filme
         return "Filme: \n"+
                 "Nome: " + getNome() + "\n"+
                 "Ano de lançamento: " + getAno() + "\n"+
                 "Gênero: " + getGenero() + "\n" +
                 "Descrição: " + getDescricao() + "\n" +
-                "Atores: " + getAtores() + "\n" +
-                "============================================\n";
-    }
-
-    public String getNome() {
-        return nome;
-    }
-
-    public int getAno() {
-        return ano;
-    }
-
-    public String getGenero() {
-        return genero;
-    }
-
-    public String getDescricao() {
-        return descricao;
-    }
-
-    public ArrayList<String> getAtores() {
-        return atores;
+                "Atores: " + getAtores() + "\n";
     }
 }

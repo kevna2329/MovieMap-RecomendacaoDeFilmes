@@ -1,6 +1,5 @@
 package model;
 import enums.TipoAresta;
-import java.util.ArrayList;
 
 public class Aresta {
     private Filme destino;
@@ -13,23 +12,21 @@ public class Aresta {
         this.peso = peso;
     }
 
-    @Override
-    public String toString() {
-        return "Aresta:" +
-                "Destino: " + getDestino().getNome() + "\n" +
-                "Tipo:" + getTipo() + "\n" +
-                "Peso: " + getPeso() + "\n";
-    }
-
+    //Getters: --------------------
     public TipoAresta getTipo() {
         return tipo;
     }
-
     public Filme getDestino() {
         return destino;
     }
-
     public int getPeso() {
         return peso;
+    }
+    //--------------------
+
+    @Override
+    public String toString() { //Impressão de Aresta
+        return " " + getDestino().getNome() + " " +
+                "[" + getPeso() + "]" ;
     }
 }

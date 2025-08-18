@@ -1,4 +1,4 @@
-21
+20
 Cidade de Deus;2002;Crime;"Na favela Cidade de Deus, meninos crescem entre violência e escolhas difíceis; um vira fotógrafo, outro criminoso temido.";Alexandre Rodrigues, Leandro Firmino, Seu Jorge, Alice Braga
 Tropa de Elite;2007;Ação;Capitão do BOPE luta contra crime e corrupção no Rio enquanto busca um substituto.;Wagner Moura, André Ramiro, Caio Junqueira
 Tropa de Elite 2;2010;Ação;Agora coronel, Nascimento enfrenta milícias e o conluio entre política e polícia.;Wagner Moura, Irandhir Santos, André Mattos
@@ -19,8 +19,25 @@ O Menino e o Mundo;2013;Animação;Garoto parte em jornada visual por um mundo i
 Elis;2016;Biografia;A trajetória de Elis Regina dos primeiros shows ao auge e conflitos pessoais.;Andréia Horta, Caco Ciocler, Gustavo Machado
 Lisbela e o Prisioneiro;2003;Comédia romântica;Moça sonhadora se apaixona por malandro carismático no interior de Pernambuco.;Selton Mello, Débora Falabella, Bruno Garcia, Virgínia Cavendish
 Marighella;2019;Biografia;A vida do guerrilheiro Carlos Marighella na resistência à ditadura.;Seu Jorge, Adriana Esteves, Bruno Gagliasso, Humberto Carrão
-3
-Cidade de Deus;Marighella;ARESTA_GENERO;3
-Elis;Cidade de Deus;ARESTA_GENERO;2
-Cidade de Deus;Tropa de Elite;ARESTA_ATOR;2
+20
+Cidade de Deus;Cidade Baixa;ARESTA_ATOR;1
+Cidade de Deus;Marighella;ARESTA_ATOR;1
+Cidade Baixa;Carandiru;ARESTA_GENERO;2
+Cidade Baixa;Carandiru;ARESTA_ATOR;2
+Carandiru;Tropa de Elite;ARESTA_ATOR;1
+Carandiru;Tropa de Elite 2;ARESTA_ATOR;1
+Tropa de Elite;Tropa de Elite 2;ARESTA_GENERO;2
+Tropa de Elite;Tropa de Elite 2;ARESTA_ATOR;1
+Aquarius;Bacurau;ARESTA_ATOR;3
+Aquarius;O Som ao Redor;ARESTA_ATOR;2
+Aquarius;Central do Brasil;ARESTA_GENERO;2
+Aquarius;Carandiru;ARESTA_GENERO;2
+Aquarius;Que Horas Ela Volta?;ARESTA_GENERO;2
+Aquarius;O Som ao Redor;ARESTA_GENERO;2
+O Som ao Redor;Que Horas Ela Volta?;ARESTA_GENERO;1
+O Som ao Redor;Carandiru;ARESTA_GENERO;3
+Que Horas Ela Volta?;Carandiru;ARESTA_GENERO;2
+Central do Brasil;Carandiru;ARESTA_GENERO;2
+Central do Brasil;Que Horas Ela Volta?;ARESTA_GENERO;2
+Central do Brasil;O Som ao Redor;ARESTA_GENERO;2
 

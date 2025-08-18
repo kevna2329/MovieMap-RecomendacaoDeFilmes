@@ -1,22 +1,37 @@
-import model.LerArquivo;
 import model.*;
+import service.Recomendador;
 
 import java.io.IOException;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) throws IOException {
 
-        Grafo grafo = new Grafo();
+        LerArquivo dados = new LerArquivo("/resources/filmes_brasileiros.csv"); // lê o arquivo csv
+        Grafo grafo = dados.getDados(); // cria o grafo
 
-        LerArquivo lerArquivo = new LerArquivo();
-        lerArquivo.lerArquivo(grafo);
-
-        System.out.println("=================================");
+        /*System.out.println("=================================");
         System.out.println("FILMES DISPONIVEIS");
-        System.out.println("=================================");
+        System.out.println("=================================");*/
 
-        System.out.println(grafo);
+        //System.out.println(grafo);
+        //grafo.listarFilmes();
         Scanner input = new Scanner(System.in);
+
+        Recomendador recomendador = new Recomendador(grafo);
+        Filme origem = grafo.getAdjacencia().get("Aquarius");
+
+        // Exibe
+        for(Filme filme : recomendador.recomendarPorDijkstra(origem)){
+            System.out.println("============================================\n");
+            System.out.println(filme);
+        }
+
+
+
+
+
 
 
         /*int opcao;
