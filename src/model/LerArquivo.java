@@ -19,6 +19,7 @@ public class LerArquivo {
         InputStream inputStream = LerArquivo.class.getResourceAsStream(caminhoArquivo);
 
         try {
+
             BufferedReader br = new BufferedReader(new InputStreamReader(inputStream));
 
             // Lendo número de filmes
@@ -67,6 +68,7 @@ public class LerArquivo {
                 }else{
                     grafo.adicionarAresta(grafo, filmeOrigem, filmeDestino, TipoAresta.ARESTA_ATOR, peso);
                 }
+
             }
             br.close();
         } catch (IOException e) {

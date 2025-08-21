@@ -1,5 +1,5 @@
 20
-Cidade de Deus;2002;Crime;"Na favela Cidade de Deus, meninos crescem entre violência e escolhas difíceis; um vira fotógrafo, outro criminoso temido.";Alexandre Rodrigues, Leandro Firmino, Seu Jorge, Alice Braga
+Cidade de Deus;2002;Crime;Na favela Cidade de Deus, meninos crescem entre violência e escolhas difíceis, um vira fotógrafo, outro criminoso temido.;Alexandre Rodrigues, Leandro Firmino, Seu Jorge, Alice Braga
 Tropa de Elite;2007;Ação;Capitão do BOPE luta contra crime e corrupção no Rio enquanto busca um substituto.;Wagner Moura, André Ramiro, Caio Junqueira
 Tropa de Elite 2;2010;Ação;Agora coronel, Nascimento enfrenta milícias e o conluio entre política e polícia.;Wagner Moura, Irandhir Santos, André Mattos
 Central do Brasil;1998;Drama;Ex-professora ajuda menino a encontrar o pai no sertão após morte da mãe.;Fernanda Montenegro, Vinícius de Oliveira, Marília Pêra
@@ -19,7 +19,7 @@ O Menino e o Mundo;2013;Animação;Garoto parte em jornada visual por um mundo i
 Elis;2016;Biografia;A trajetória de Elis Regina dos primeiros shows ao auge e conflitos pessoais.;Andréia Horta, Caco Ciocler, Gustavo Machado
 Lisbela e o Prisioneiro;2003;Comédia romântica;Moça sonhadora se apaixona por malandro carismático no interior de Pernambuco.;Selton Mello, Débora Falabella, Bruno Garcia, Virgínia Cavendish
 Marighella;2019;Biografia;A vida do guerrilheiro Carlos Marighella na resistência à ditadura.;Seu Jorge, Adriana Esteves, Bruno Gagliasso, Humberto Carrão
-20
+9
 Cidade de Deus;Cidade Baixa;ARESTA_ATOR;1
 Cidade de Deus;Marighella;ARESTA_ATOR;1
 Cidade Baixa;Carandiru;ARESTA_ATOR;2
@@ -29,19 +29,32 @@ Tropa de Elite;Tropa de Elite 2;ARESTA_ATOR;1
 Aquarius;Bacurau;ARESTA_ATOR;1
 Aquarius;O Som ao Redor;ARESTA_ATOR;2
 Aquarius;Tropa de Elite 2;ARESTA_ATOR;1
-Central Brasil;Auto da Compadecida;ARESTA_ATOR;1
-Tropa de Elite;Tropa de Elite 2;ARESTA_GENERO;2
-Cidade Baixa;Carandiru;ARESTA_GENERO;2
-Aquarius;Central do Brasil;ARESTA_GENERO;2
-Aquarius;Carandiru;ARESTA_GENERO;2
-Aquarius;Que Horas Ela Volta?;ARESTA_GENERO;2
-Aquarius;O Som ao Redor;ARESTA_GENERO;2
-O Som ao Redor;Que Horas Ela Volta?;ARESTA_GENERO;2
-O Som ao Redor;Carandiru;ARESTA_GENERO;2
+Que Horas Ela Volta?;Cidade Baixa;ARESTA_GENERO;2
+Que Horas Ela Volta?;O Pagador de Promessas;ARESTA_GENERO;2
 Que Horas Ela Volta?;Carandiru;ARESTA_GENERO;2
-Central do Brasil;Carandiru;ARESTA_GENERO;2
-Central do Brasil;Que Horas Ela Volta?;ARESTA_GENERO;2
-Central do Brasil;O Som ao Redor;ARESTA_GENERO;2
-Marighella;Elis;ARESTA_GENERO;1
+Que Horas Ela Volta?;Aquarius;ARESTA_GENERO;2
+Que Horas Ela Volta?;O Som ao Redor;ARESTA_GENERO;2
+Que Horas Ela Volta?;Central do Brasil;ARESTA_GENERO;2
+Tropa de Elite 2;Tropa de Elite;ARESTA_GENERO;2
+Cidade Baixa;O Pagador de Promessas;ARESTA_GENERO;2
+Cidade Baixa;Carandiru;ARESTA_GENERO;2
+Cidade Baixa;Aquarius;ARESTA_GENERO;2
+Cidade Baixa;O Som ao Redor;ARESTA_GENERO;2
+Cidade Baixa;Central do Brasil;ARESTA_GENERO;2
+O Pagador de Promessas;Carandiru;ARESTA_GENERO;2
+O Pagador de Promessas;Aquarius;ARESTA_GENERO;2
+O Pagador de Promessas;O Som ao Redor;ARESTA_GENERO;2
+O Pagador de Promessas;Central do Brasil;ARESTA_GENERO;2
+O Auto da Compadecida;Narradores de Javé;ARESTA_GENERO;2
+O Auto da Compadecida;Macunaíma;ARESTA_GENERO;2
+Narradores de Javé;Macunaíma;ARESTA_GENERO;2
+Carandiru;Aquarius;ARESTA_GENERO;2
+Carandiru;O Som ao Redor;ARESTA_GENERO;2
+Carandiru;Central do Brasil;ARESTA_GENERO;2
+Marighella;Elis;ARESTA_GENERO;2
+Aquarius;O Som ao Redor;ARESTA_GENERO;2
+Aquarius;Central do Brasil;ARESTA_GENERO;2
+O Som ao Redor;Central do Brasil;ARESTA_GENERO;2
+
 
 

@@ -3,9 +3,11 @@ import service.Recomendador;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Map;
 import java.util.Scanner;
 
 public class Main {
+
     public static void main(String[] args) throws IOException {
 
         LerArquivo dados = new LerArquivo("/resources/filmes_brasileiros.csv"); // lê o arquivo csv
@@ -17,6 +19,8 @@ public class Main {
 
         //System.out.println(grafo);
         //grafo.listarFilmes();
+
+
         Scanner input = new Scanner(System.in);
 
         Recomendador recomendador = new Recomendador(grafo);
@@ -27,6 +31,8 @@ public class Main {
             System.out.println("============================================\n");
             System.out.println(filme);
         }
+
+
 
 
         

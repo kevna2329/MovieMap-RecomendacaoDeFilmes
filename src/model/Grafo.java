@@ -9,7 +9,6 @@ public class Grafo {
     public Grafo() {
         Map<Filme, Filme> arestas =  new HashMap<>();
     }
-
     // Adiciona um vértice (se ainda não existir)
     public void adicionarVertice(Filme filme) {
         adjacencia.putIfAbsent(filme.getNome(), filme);
@@ -49,6 +48,10 @@ public class Grafo {
         for(Filme filme : adjacencia.values()){
             System.out.println(filme.getNome() + " (" + filme.getAno() + ")");
         }
+    }
+
+    public Map<String, Filme> returFilmes(){
+        return adjacencia;
     }
 
     public Map<String, Filme> getAdjacencia() {return adjacencia;}
