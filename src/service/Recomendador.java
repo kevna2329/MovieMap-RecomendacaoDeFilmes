@@ -30,7 +30,7 @@ public class Recomendador {
     public Filme[] recomendarPorDijkstra(Filme origem) {
         Map<Filme, Integer> distancias = grafo.dijkstra(origem);
         ArrayList<Filme> temp = new ArrayList<>();
-        Filme [] top5 = new Filme[5];
+        Filme[] top5 = new Filme[5];
         // Ordena por menor distância (mais similaridade)
         temp =  distancias.entrySet().stream()
                 .filter(e -> !e.getKey().equals(origem))

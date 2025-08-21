@@ -22,22 +22,26 @@ Marighella;2019;Biografia;A vida do guerrilheiro Carlos Marighella na resistênc
 20
 Cidade de Deus;Cidade Baixa;ARESTA_ATOR;1
 Cidade de Deus;Marighella;ARESTA_ATOR;1
-Cidade Baixa;Carandiru;ARESTA_GENERO;2
 Cidade Baixa;Carandiru;ARESTA_ATOR;2
 Carandiru;Tropa de Elite;ARESTA_ATOR;1
 Carandiru;Tropa de Elite 2;ARESTA_ATOR;1
-Tropa de Elite;Tropa de Elite 2;ARESTA_GENERO;2
 Tropa de Elite;Tropa de Elite 2;ARESTA_ATOR;1
-Aquarius;Bacurau;ARESTA_ATOR;3
+Aquarius;Bacurau;ARESTA_ATOR;1
 Aquarius;O Som ao Redor;ARESTA_ATOR;2
+Aquarius;Tropa de Elite 2;ARESTA_ATOR;1
+Central Brasil;Auto da Compadecida;ARESTA_ATOR;1
+Tropa de Elite;Tropa de Elite 2;ARESTA_GENERO;2
+Cidade Baixa;Carandiru;ARESTA_GENERO;2
 Aquarius;Central do Brasil;ARESTA_GENERO;2
 Aquarius;Carandiru;ARESTA_GENERO;2
 Aquarius;Que Horas Ela Volta?;ARESTA_GENERO;2
 Aquarius;O Som ao Redor;ARESTA_GENERO;2
-O Som ao Redor;Que Horas Ela Volta?;ARESTA_GENERO;1
-O Som ao Redor;Carandiru;ARESTA_GENERO;3
+O Som ao Redor;Que Horas Ela Volta?;ARESTA_GENERO;2
+O Som ao Redor;Carandiru;ARESTA_GENERO;2
 Que Horas Ela Volta?;Carandiru;ARESTA_GENERO;2
 Central do Brasil;Carandiru;ARESTA_GENERO;2
 Central do Brasil;Que Horas Ela Volta?;ARESTA_GENERO;2
 Central do Brasil;O Som ao Redor;ARESTA_GENERO;2
+Marighella;Elis;ARESTA_GENERO;1
+
 
