@@ -4,6 +4,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Map;
 
+
+//pra criar as arestas depois apagar
 public class Organizar {
     public static int atoresEmComum(Filme f1, Filme f2) {
         int cont = 0;
