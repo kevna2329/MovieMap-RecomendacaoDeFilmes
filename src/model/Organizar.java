@@ -9,7 +9,7 @@ import java.util.Map;
 public class Organizar {
     public static int atoresEmComum(Filme f1, Filme f2) {
         int cont = 0;
-
+        ArrayList<String> nomes = new ArrayList<>();
         for (String g : f1.getAtores()) {
             // se f.getAtores() retorna UMA string grande, faça o split
             String[] atores = g.split(",");
@@ -17,14 +17,18 @@ public class Organizar {
                 for (String h : f2.getAtores()) {
                     // se f.getAtores() retorna UMA string grande, faça o split
                     String[] atores2 = h.split(",");
-                    for (String ator2 : atores) {
-                        if (ator.trim().equalsIgnoreCase(ator2.trim())) {
+
+                    for (String ator2 : atores2) {
+                        if (ator.trim().equalsIgnoreCase(ator2.trim()) && !f1.getNome().equalsIgnoreCase(f2.getNome())) {
                             cont++;
+
                         }
 
                     }
                 }
+
             }
+            nomes.add(f1.getNome());
         }
 
         return cont;
@@ -48,7 +52,7 @@ public class Organizar {
             for (Filme g : filmes.values()) {
                 int emComum = atoresEmComum(f, g);
                 if (emComum > 0) {
-                    System.out.printf("%s;%s;ARESTA_ATOR;%d\n", f.getNome(), g.getNome(), emComum);
+                    System.out.printf("%s;%s;ARESTA_ATOR;%d\n", f.getNome(),g.getNome(),emComum) ;
                 }
             }
         }

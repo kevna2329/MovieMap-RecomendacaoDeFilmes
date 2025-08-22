@@ -19,16 +19,39 @@ O Menino e o Mundo;2013;Animação;Garoto parte em jornada visual por um mundo i
 Elis;2016;Biografia;A trajetória de Elis Regina dos primeiros shows ao auge e conflitos pessoais.;Andréia Horta, Caco Ciocler, Gustavo Machado
 Lisbela e o Prisioneiro;2003;Comédia romântica;Moça sonhadora se apaixona por malandro carismático no interior de Pernambuco.;Selton Mello, Débora Falabella, Bruno Garcia, Virgínia Cavendish
 Marighella;2019;Biografia;A vida do guerrilheiro Carlos Marighella na resistência à ditadura.;Seu Jorge, Adriana Esteves, Bruno Gagliasso, Humberto Carrão
-9
+57
+Tropa de Elite 2;Tropa de Elite;ARESTA_ATOR;1
+Tropa de Elite 2;Cidade Baixa;ARESTA_ATOR;1
+Tropa de Elite 2;Carandiru;ARESTA_ATOR;1
+Tropa de Elite 2;Aquarius;ARESTA_ATOR;1
+Tropa de Elite 2;O Som ao Redor;ARESTA_ATOR;1
+Tropa de Elite;Tropa de Elite 2;ARESTA_ATOR;1
+Tropa de Elite;Cidade Baixa;ARESTA_ATOR;1
+Tropa de Elite;Carandiru;ARESTA_ATOR;1
+Cidade Baixa;Tropa de Elite 2;ARESTA_ATOR;1
+Cidade Baixa;Tropa de Elite;ARESTA_ATOR;1
+Cidade Baixa;Carandiru;ARESTA_ATOR;2
+Cidade Baixa;Cidade de Deus;ARESTA_ATOR;1
+O Auto da Compadecida;Narradores de Javé;ARESTA_ATOR;1
+O Auto da Compadecida;Central do Brasil;ARESTA_ATOR;1
+O Auto da Compadecida;Lisbela e o Prisioneiro;ARESTA_ATOR;1
+Narradores de Javé;O Auto da Compadecida;ARESTA_ATOR;1
+Carandiru;Tropa de Elite 2;ARESTA_ATOR;1
+Carandiru;Tropa de Elite;ARESTA_ATOR;1
+Carandiru;Cidade Baixa;ARESTA_ATOR;2
+Marighella;Aquarius;ARESTA_ATOR;1
+Marighella;Cidade de Deus;ARESTA_ATOR;1
+Aquarius;Tropa de Elite 2;ARESTA_ATOR;1
+Aquarius;Marighella;ARESTA_ATOR;1
+Aquarius;O Som ao Redor;ARESTA_ATOR;2
+Aquarius;Bacurau;ARESTA_ATOR;1
 Cidade de Deus;Cidade Baixa;ARESTA_ATOR;1
 Cidade de Deus;Marighella;ARESTA_ATOR;1
-Cidade Baixa;Carandiru;ARESTA_ATOR;2
-Carandiru;Tropa de Elite;ARESTA_ATOR;1
-Carandiru;Tropa de Elite 2;ARESTA_ATOR;1
-Tropa de Elite;Tropa de Elite 2;ARESTA_ATOR;1
-Aquarius;Bacurau;ARESTA_ATOR;1
-Aquarius;O Som ao Redor;ARESTA_ATOR;2
-Aquarius;Tropa de Elite 2;ARESTA_ATOR;1
+O Som ao Redor;Tropa de Elite 2;ARESTA_ATOR;1
+O Som ao Redor;Aquarius;ARESTA_ATOR;2
+Central do Brasil;O Auto da Compadecida;ARESTA_ATOR;1
+Lisbela e o Prisioneiro;O Auto da Compadecida;ARESTA_ATOR;1
+Bacurau;Aquarius;ARESTA_ATOR;1
 Que Horas Ela Volta?;Cidade Baixa;ARESTA_GENERO;2
 Que Horas Ela Volta?;O Pagador de Promessas;ARESTA_GENERO;2
 Que Horas Ela Volta?;Carandiru;ARESTA_GENERO;2

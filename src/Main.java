@@ -18,7 +18,7 @@ public class Main {
         System.out.println("=================================");*/
 
         //System.out.println(grafo);
-        //grafo.listarFilmes();
+        grafo.listarFilmes();
 
 
         Scanner input = new Scanner(System.in);
