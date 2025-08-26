@@ -2,6 +2,7 @@ package model;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Map;
 
 
@@ -33,6 +34,18 @@ public class Organizar {
 
         return cont;
     }
+
+    public static void generosEmComum(Map<String, Filme> filmes){
+        ArrayList<String> filmesja = new ArrayList<>();
+        for(Filme f: filmes.values()){
+            for (Filme g: filmes.values()){
+                if (!f.getNome().equalsIgnoreCase(g.getNome()) && !filmesja.contains(g.getNome()) && f.getGenero().equalsIgnoreCase(g.getGenero())){
+                    System.out.printf("%s;%s;ARESTA_GENERO;2\n", f.getNome(),g.getNome());
+                }
+            }
+            filmesja.add(f.getNome());
+        }
+    }
     public static void main(String[] args) throws IOException {
 
         LerArquivo dados = new LerArquivo("/resources/filmes_brasileiros.csv"); // lê o arquivo csv
@@ -48,6 +61,9 @@ public class Organizar {
         Map<String, Filme> filmes = grafo.returFilmes();
         ArrayList<String> nomes = new ArrayList<>();
         int cont = 0;
+
+        System.out.println("ARESTA FILMES ATOR");
+        System.out.println("======================================================================================");
         for (Filme f : filmes.values()) {
             for (Filme g : filmes.values()) {
                 int emComum = atoresEmComum(f, g);
@@ -56,6 +72,11 @@ public class Organizar {
                 }
             }
         }
+        System.out.println("======================================================================================");
+        System.out.println("ARESTA FILMES GENERO");
+        generosEmComum(filmes);
+        System.out.println("======================================================================================");
+
 
 
     }

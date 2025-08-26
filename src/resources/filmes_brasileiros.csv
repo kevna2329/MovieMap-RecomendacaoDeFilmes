@@ -1,83 +1,447 @@
-20
-Cidade de Deus;2002;Crime;Na favela Cidade de Deus, meninos crescem entre violência e escolhas difíceis, um vira fotógrafo, outro criminoso temido.;Alexandre Rodrigues, Leandro Firmino, Seu Jorge, Alice Braga
-Tropa de Elite;2007;Ação;Capitão do BOPE luta contra crime e corrupção no Rio enquanto busca um substituto.;Wagner Moura, André Ramiro, Caio Junqueira
-Tropa de Elite 2;2010;Ação;Agora coronel, Nascimento enfrenta milícias e o conluio entre política e polícia.;Wagner Moura, Irandhir Santos, André Mattos
-Central do Brasil;1998;Drama;Ex-professora ajuda menino a encontrar o pai no sertão após morte da mãe.;Fernanda Montenegro, Vinícius de Oliveira, Marília Pêra
-Bacurau;2019;Faroeste;Povoado do sertão some do mapa e moradores enfrentam forasteiros violentos.;Bárbara Colen, Sônia Braga, Udo Kier, Silvero Pereira
-Aquarius;2016;Drama;Viúva resiste à pressão de construtora para deixar seu apartamento à beira-mar.;Sônia Braga, Irandhir Santos, Humberto Carrão, Maeve Jinkings
-O Auto da Compadecida;2000;Comédia;Dupla de malandros do sertão se mete em confusões e apela à Compadecida.;Matheus Nachtergaele, Selton Mello, Fernanda Montenegro, Marco Nanini
-Carandiru;2003;Drama;Médico conhece histórias de presos antes do massacre no presídio Carandiru.;Rodrigo Santoro, Luiz Carlos Vasconcelos, Wagner Moura, Lázaro Ramos
-Que Horas Ela Volta?;2015;Drama;Empregada doméstica vê relações de classe abaladas quando a filha vai morar com seus patrões.;Regina Casé, Camila Márdila, Karine Teles, Michel Joelsas
-Hoje Eu Quero Voltar Sozinho;2014;"Romance";Adolescente cego busca independência e descobre o amor com novo colega.;Ghilherme Lobo, Tess Amorim, Fábio Audi
-O Som ao Redor;2012;Drama;A chegada de uma milícia de bairro expõe tensões e medos numa rua de classe média do Recife.;Irandhir Santos, Maeve Jinkings, W.J. Solha
-Cidade Baixa;2005;Drama;Dois amigos e uma stripper vivem triângulo amoroso em Salvador.;Lázaro Ramos, Wagner Moura, Alice Braga
-Estômago;2007;Comédia dramática;Migrante descobre talento culinário que muda sua vida dentro e fora da prisão.;João Miguel, Fabiula Nascimento, Babu Santana
-Narradores de Javé;2003;Comédia;Moradores inventam a história da cidade para salvá-la de uma represa.;Matheus Nachtergaele, José Dumont, Nelson Dantas
-O Pagador de Promessas;1962;Drama;Homem tenta cumprir promessa ao carregar cruz até igreja e enfrenta burocracia e preconceito.;Leonardo Villar, Glória Menezes, Anselmo Duarte
-Macunaíma;1969;Comédia;Anti-herói atravessa o Brasil em sátira antropofágica do modernismo.;Grande Otelo, Paulo José, Dina Sfat
-O Menino e o Mundo;2013;Animação;Garoto parte em jornada visual por um mundo industrializado e desigual.;Animação sem falas marcantes
-Elis;2016;Biografia;A trajetória de Elis Regina dos primeiros shows ao auge e conflitos pessoais.;Andréia Horta, Caco Ciocler, Gustavo Machado
-Lisbela e o Prisioneiro;2003;Comédia romântica;Moça sonhadora se apaixona por malandro carismático no interior de Pernambuco.;Selton Mello, Débora Falabella, Bruno Garcia, Virgínia Cavendish
-Marighella;2019;Biografia;A vida do guerrilheiro Carlos Marighella na resistência à ditadura.;Seu Jorge, Adriana Esteves, Bruno Gagliasso, Humberto Carrão
-57
-Tropa de Elite 2;Tropa de Elite;ARESTA_ATOR;1
-Tropa de Elite 2;Cidade Baixa;ARESTA_ATOR;1
-Tropa de Elite 2;Carandiru;ARESTA_ATOR;1
-Tropa de Elite 2;Aquarius;ARESTA_ATOR;1
-Tropa de Elite 2;O Som ao Redor;ARESTA_ATOR;1
-Tropa de Elite;Tropa de Elite 2;ARESTA_ATOR;1
-Tropa de Elite;Cidade Baixa;ARESTA_ATOR;1
-Tropa de Elite;Carandiru;ARESTA_ATOR;1
-Cidade Baixa;Tropa de Elite 2;ARESTA_ATOR;1
-Cidade Baixa;Tropa de Elite;ARESTA_ATOR;1
-Cidade Baixa;Carandiru;ARESTA_ATOR;2
-Cidade Baixa;Cidade de Deus;ARESTA_ATOR;1
-O Auto da Compadecida;Narradores de Javé;ARESTA_ATOR;1
+51
+Cidade de Deus;2002;Ação;Na favela Cidade de Deus, meninos crescem entre violência e escolhas difíceis, um vira fotógrafo, outro criminoso temido.;Matheus Nachtergaele, Alexandre Rodrigues, Leandro Firmino, Seu Jorge, Alice Braga
+Tropa de Elite;2007;Ação;Capitão do BOPE luta contra crime e corrupção no Rio enquanto busca um substituto.;Wagner Moura, André Ramiro, Caio Junqueira, Andréa Beltrão
+Tropa de Elite 2;2010;Ação;Agora coronel, Nascimento enfrenta milícias e o conluio entre política e polícia.;Wagner Moura, Irandhir Santos, André Mattos, Maria Ribeiro
+Central do Brasil;1998;Drama;Ex-professora ajuda menino a encontrar o pai no sertão após morte da mãe.;Fernanda Montenegro, Vinícius de Oliveira, Marília Pêra, Othon Bastos
+Bacurau;2019;Drama;Povoado do sertão some do mapa e moradores enfrentam forasteiros violentos.;Bárbara Colen, Sônia Braga, Udo Kier, Silvero Pereira, Thardelly Lima
+Aquarius;2016;Drama;Viúva resiste à pressão de construtora para deixar seu apartamento à beira-mar.;Sônia Braga, Irandhir Santos, Humberto Carrão, Maeve Jinkings, Zezita Matos
+O Auto da Compadecida;2000;Comédia;Dupla de malandros do sertão se mete em confusões e apela à Compadecida.;Matheus Nachtergaele, Selton Mello, Fernanda Montenegro, Marco Nanini, Denise Fraga
+Carandiru;2003;Drama;Médico conhece histórias de presos antes do massacre no presídio Carandiru.;Rodrigo Santoro, Luiz Carlos Vasconcelos, Wagner Moura, Lázaro Ramos, Caio Blat
+Que Horas Ela Volta?;2015;Drama;Empregada doméstica vê relações de classe abaladas quando a filha vai morar com seus patrões.;Regina Casé, Camila Márdila, Karine Teles, Michel Joelsas, Lourenço Mutarelli
+Hoje Eu Quero Voltar Sozinho;2014;Romance;Adolescente cego busca independência e descobre o amor com novo colega.;Ghilherme Lobo, Tess Amorim, Fábio Audi, Lúcia Romano
+O Som ao Redor;2012;Drama;A chegada de uma milícia de bairro expõe tensões e medos numa rua de classe média do Recife.;Irandhir Santos, Maeve Jinkings, W.J. Solha, Gustavo Jahn
+Cidade Baixa;2005;Drama;Dois amigos e uma stripper vivem triângulo amoroso em Salvador.;Lázaro Ramos, Wagner Moura, Alice Braga, Wagner Moura
+Estômago;2007;Drama;Migrante descobre talento culinário que muda sua vida dentro e fora da prisão.;João Miguel, Fabiula Nascimento, Babu Santana, Carlo Briani
+Narradores de Javé;2003;Comédia;Moradores inventam a história da cidade para salvá-la de uma represa.;Matheus Nachtergaele, José Dumont, Nelson Dantas, Gero Camilo
+O Pagador de Promessas;1962;Drama;Homem tenta cumprir promessa ao carregar cruz até igreja e enfrenta burocracia e preconceito.;Leonardo Villar, Glória Menezes, Anselmo Duarte, Dionísio Azevedo
+Macunaíma;1969;Comédia;Anti-herói atravessa o Brasil em sátira antropofágica do modernismo.;Grande Otelo, Paulo José, Dina Sfat, Jardel Filho
+O Menino e o Mundo;2013;Animação;Garoto parte em jornada visual por um mundo industrializado e desigual.;Animação sem falas marcantes, Alê Abreu
+Elis;2016;Drama;A trajetória de Elis Regina dos primeiros shows ao auge e conflitos pessoais.;Andréia Horta, Caco Ciocler, Gustavo Machado, Lúcio Mauro Filho
+Lisbela e o Prisioneiro;2003;Romance;Moça sonhadora se apaixona por malandro carismático no interior de Pernambuco.;Selton Mello, Débora Falabella, Bruno Garcia, Virgínia Cavendish, Tadeu Mello
+Marighella;2019;Drama;A vida do guerrilheiro Carlos Marighella na resistência à ditadura.;Seu Jorge, Adriana Esteves, Bruno Gagliasso, Humberto Carrão, Herson Capri
+Se Eu Fosse Você;2006;Comédia;Casal troca de corpos após um desejo mágico e precisa viver a vida um do outro.;Gloria Pires, Tony Ramos, Cássio Gabus Mendes
+Minha Mãe é uma Peça;2013;Comédia;Dona Hermínia, uma mãe superprotetora e engraçada, lida com os filhos já crescidos.;Paulo Gustavo, Mariana Xavier, Rodrigo Pandolfo, Heloísa Périssé
+Minha Mãe é uma Peça 2;2016;Comédia;Dona Hermínia volta ainda mais agitada, enfrentando novos desafios familiares.;Paulo Gustavo, Mariana Xavier, Rodrigo Pandolfo, Ingrid Guimarães
+Minha Mãe é uma Peça 3;2019;Comédia;Dona Hermínia lida com mudanças na família enquanto reflete sobre sua vida.;Paulo Gustavo, Mariana Xavier, Rodrigo Pandolfo, Mônica Martelli
+Dois Filhos de Francisco;2005;Drama;A trajetória da dupla sertaneja Zezé Di Camargo & Luciano desde a infância até o sucesso.;Angelo Antonio, Dira Paes, Márcio Kieling, Thiago Mendonça
+Deus e o Diabo na Terra do Sol;1964;Drama;Camponês vive tragédia e se divide entre a fé e a violência no sertão nordestino.;Geraldo Del Rey, Yoná Magalhães, Othon Bastos, Maurício do Valle
+Bye Bye Brasil;1980;Aventura;Caravana de artistas percorre o Brasil profundo em tempos de mudanças sociais.;José Wilker, Betty Faria, Fábio Júnior, Príncipe Nabor
+O Palhaço;2011;Comédia;Palhaço questiona sua vida no circo e busca um novo sentido para sua existência.;Selton Mello, Paulo José, Larissa Manoela, Fabiana Karla
+O Cangaceiro;1953;Ação;Grupo de cangaceiros enfrenta batalhas e dilemas morais no sertão.;Milton Ribeiro, Vanja Orico, Alberto Ruschel, Aurélio Teixeira
+Pixote, a Lei do Mais Fraco;1981;Drama;Menino de rua enfrenta violência, exploração e sobrevivência em São Paulo.;Fernando Ramos da Silva, Marília Pêra, Jardel Filho
+Casa de Areia;2005;Drama;Mãe e filha ficam presas no deserto e enfrentam gerações de isolamento e resistência.;Fernanda Montenegro, Fernanda Torres, Ruy Guerra
+A Dama do Lotação;1978;Drama;Mulher casada busca liberdade sexual e desafia convenções da época.;Sônia Braga, Nuno Leal Maia, Cláudio Marzo
+Os Saltimbancos Trapalhões;1981;Comédia;Trapalhões se unem a animais falantes para enfrentar um circo explorador.;Renato Aragão, Dedé Santana, Mussum, Zacarias, Lucinha Lins
+Os Trapalhões na Guerra dos Planetas;1978;Ficção científica;Trapalhões vivem aventuras intergalácticas numa paródia de Star Wars.;Renato Aragão, Dedé Santana, Mussum, Zacarias, José de Abreu
+A Ilha dos Paqueras;1965;Comédia;Jovens vivem romances e confusões em uma ilha tropical.;Regina Duarte, Roberto Carlos, Raul Cortez
+A Máquina;2005;Romance;Jovem do sertão inventa máquina do tempo para provar seu amor.;Wagner Moura, Mariana Ximenes, Gustavo Falcão
+O Céu de Suely;2006;Drama;Mulher volta à sua cidade natal e enfrenta dilemas entre partir e recomeçar.;Hermila Guedes, João Miguel, Georgina Castro
+Linha de Passe;2008;Drama;Quatro irmãos enfrentam dificuldades em São Paulo em busca de um futuro.;Vinícius de Oliveira, Sandra Corveloni, Eduardo Valente
+O Ano em que Meus Pais Saíram de Férias;2006;Drama;Menino lida com o exílio dos pais durante a ditadura militar.;Michel Joelsas, Germano Haiut, Simone Spoladore
+Mutum;2007;Drama;Menino cresce no sertão mineiro enfrentando inocência, família e realidade dura.;Thiago da Silva Mariz, João Miguel, Izadora Cristina Fernandes
+Paraísos Artificiais;2012;Drama;DJ e jovem se apaixonam em meio a festas eletrônicas e drogas.;Nathalia Dill, Luca Bianchi, César Cardadeiro
+Turma da Mônica: Laços;2019;Aventura;Turma da Mônica sai em jornada para encontrar Floquinho, o cachorro do Cebolinha.;Giulia Benite, Kevin Vechiatto, Laura Rauseo, Gabriel Moreira, Erick Marmo
+Turma da Mônica: Lições;2021;Aventura;Mônica e amigos enfrentam desafios escolares e aprendem sobre amizade.;Giulia Benite, Kevin Vechiatto, Laura Rauseo, Gabriel Moreira, Monica Iozzi
+O Escaravelho do Diabo;2016;Suspense;Assassinatos misteriosos envolvendo jovens ruivos intrigam uma pequena cidade.;Thiago Rosseti, Bruna Cavalieri, Marcello Airoldi
+Ensaio Sobre a Cegueira;2008;Drama;Epidemia de cegueira atinge cidade e expõe o lado cruel da humanidade.;Julianne Moore, Mark Ruffalo, Alice Braga, Danny Glover
+Cidade Ameaçada;1960;Suspense;Policial enfrenta quadrilha em São Paulo dos anos 1960.;Mário Benvenutti, Eva Wilma, Leonardo Villar
+As Boas Maneiras;2017;Terror;Babá descobre segredos sobrenaturais envolvendo a gravidez de sua patroa.;Isabél Zuaa, Marjorie Estiano, Cida Moreira
+Morto Não Fala;2018;Terror;Funcionário de necrotério passa a ouvir os mortos e enfrenta consequências macabras.;Daniel de Oliveira, Fabiula Nascimento, Marco Ricca
+O Rastro;2017;Terror;Hospital abandonado guarda segredos e médicos enfrentam forças sombrias.;Leandra Leal, Rafael Cardoso, Cláudia Abreu
+Xuxa e os Duendes;2001;Fantasia;Garota entra em mundo mágico de duendes para salvar o planeta.;Xuxa Meneghel, Angélica, Luciano Szafir
+Castelo Rá-Tim-Bum, o Filme;1999;Fantasia;Nino precisa salvar o castelo mágico de forças do mal.;Diego Kozievitch, Rosi Campos, Matheus Nachtergaele, Sérgio Mamberti
+390
+Se Eu Fosse Você;O Auto da Compadecida;ARESTA_GENERO;2
+Se Eu Fosse Você;O Palhaço;ARESTA_GENERO;2
+Se Eu Fosse Você;Macunaíma;ARESTA_GENERO;2
+Se Eu Fosse Você;Os Saltimbancos Trapalhões;ARESTA_GENERO;2
+Se Eu Fosse Você;Minha Mãe é uma Peça;ARESTA_GENERO;2
+Se Eu Fosse Você;Minha Mãe é uma Peça 3;ARESTA_GENERO;2
+Se Eu Fosse Você;Minha Mãe é uma Peça 2;ARESTA_GENERO;2
+Se Eu Fosse Você;A Ilha dos Paqueras;ARESTA_GENERO;2
+Se Eu Fosse Você;Narradores de Javé;ARESTA_GENERO;2
+A Máquina;Lisbela e o Prisioneiro;ARESTA_GENERO;2
+A Máquina;Hoje Eu Quero Voltar Sozinho;ARESTA_GENERO;2
+Castelo Rá-Tim-Bum, o Filme;Xuxa e os Duendes;ARESTA_GENERO;2
+O Auto da Compadecida;O Palhaço;ARESTA_GENERO;2
+O Auto da Compadecida;Macunaíma;ARESTA_GENERO;2
+O Auto da Compadecida;Os Saltimbancos Trapalhões;ARESTA_GENERO;2
+O Auto da Compadecida;Minha Mãe é uma Peça;ARESTA_GENERO;2
+O Auto da Compadecida;Minha Mãe é uma Peça 3;ARESTA_GENERO;2
+O Auto da Compadecida;Minha Mãe é uma Peça 2;ARESTA_GENERO;2
+O Auto da Compadecida;A Ilha dos Paqueras;ARESTA_GENERO;2
+O Auto da Compadecida;Narradores de Javé;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Marighella;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Aquarius;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Elis;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Ensaio Sobre a Cegueira;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Paraísos Artificiais;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Pixote, a Lei do Mais Fraco;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Linha de Passe;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Casa de Areia;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Mutum;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Central do Brasil;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Dois Filhos de Francisco;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Deus e o Diabo na Terra do Sol;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;O Pagador de Promessas;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;O Céu de Suely;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Que Horas Ela Volta?;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Cidade Baixa;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;A Dama do Lotação;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Carandiru;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;O Som ao Redor;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Estômago;ARESTA_GENERO;2
+O Ano em que Meus Pais Saíram de Férias;Bacurau;ARESTA_GENERO;2
+Marighella;Aquarius;ARESTA_GENERO;2
+Marighella;Elis;ARESTA_GENERO;2
+Marighella;Ensaio Sobre a Cegueira;ARESTA_GENERO;2
+Marighella;Paraísos Artificiais;ARESTA_GENERO;2
+Marighella;Pixote, a Lei do Mais Fraco;ARESTA_GENERO;2
+Marighella;Linha de Passe;ARESTA_GENERO;2
+Marighella;Casa de Areia;ARESTA_GENERO;2
+Marighella;Mutum;ARESTA_GENERO;2
+Marighella;Central do Brasil;ARESTA_GENERO;2
+Marighella;Dois Filhos de Francisco;ARESTA_GENERO;2
+Marighella;Deus e o Diabo na Terra do Sol;ARESTA_GENERO;2
+Marighella;O Pagador de Promessas;ARESTA_GENERO;2
+Marighella;O Céu de Suely;ARESTA_GENERO;2
+Marighella;Que Horas Ela Volta?;ARESTA_GENERO;2
+Marighella;Cidade Baixa;ARESTA_GENERO;2
+Marighella;A Dama do Lotação;ARESTA_GENERO;2
+Marighella;Carandiru;ARESTA_GENERO;2
+Marighella;O Som ao Redor;ARESTA_GENERO;2
+Marighella;Estômago;ARESTA_GENERO;2
+Marighella;Bacurau;ARESTA_GENERO;2
+Aquarius;Elis;ARESTA_GENERO;2
+Aquarius;Ensaio Sobre a Cegueira;ARESTA_GENERO;2
+Aquarius;Paraísos Artificiais;ARESTA_GENERO;2
+Aquarius;Pixote, a Lei do Mais Fraco;ARESTA_GENERO;2
+Aquarius;Linha de Passe;ARESTA_GENERO;2
+Aquarius;Casa de Areia;ARESTA_GENERO;2
+Aquarius;Mutum;ARESTA_GENERO;2
+Aquarius;Central do Brasil;ARESTA_GENERO;2
+Aquarius;Dois Filhos de Francisco;ARESTA_GENERO;2
+Aquarius;Deus e o Diabo na Terra do Sol;ARESTA_GENERO;2
+Aquarius;O Pagador de Promessas;ARESTA_GENERO;2
+Aquarius;O Céu de Suely;ARESTA_GENERO;2
+Aquarius;Que Horas Ela Volta?;ARESTA_GENERO;2
+Aquarius;Cidade Baixa;ARESTA_GENERO;2
+Aquarius;A Dama do Lotação;ARESTA_GENERO;2
+Aquarius;Carandiru;ARESTA_GENERO;2
+Aquarius;O Som ao Redor;ARESTA_GENERO;2
+Aquarius;Estômago;ARESTA_GENERO;2
+Aquarius;Bacurau;ARESTA_GENERO;2
+Elis;Ensaio Sobre a Cegueira;ARESTA_GENERO;2
+Elis;Paraísos Artificiais;ARESTA_GENERO;2
+Elis;Pixote, a Lei do Mais Fraco;ARESTA_GENERO;2
+Elis;Linha de Passe;ARESTA_GENERO;2
+Elis;Casa de Areia;ARESTA_GENERO;2
+Elis;Mutum;ARESTA_GENERO;2
+Elis;Central do Brasil;ARESTA_GENERO;2
+Elis;Dois Filhos de Francisco;ARESTA_GENERO;2
+Elis;Deus e o Diabo na Terra do Sol;ARESTA_GENERO;2
+Elis;O Pagador de Promessas;ARESTA_GENERO;2
+Elis;O Céu de Suely;ARESTA_GENERO;2
+Elis;Que Horas Ela Volta?;ARESTA_GENERO;2
+Elis;Cidade Baixa;ARESTA_GENERO;2
+Elis;A Dama do Lotação;ARESTA_GENERO;2
+Elis;Carandiru;ARESTA_GENERO;2
+Elis;O Som ao Redor;ARESTA_GENERO;2
+Elis;Estômago;ARESTA_GENERO;2
+Elis;Bacurau;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;Paraísos Artificiais;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;Pixote, a Lei do Mais Fraco;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;Linha de Passe;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;Casa de Areia;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;Mutum;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;Central do Brasil;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;Dois Filhos de Francisco;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;Deus e o Diabo na Terra do Sol;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;O Pagador de Promessas;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;O Céu de Suely;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;Que Horas Ela Volta?;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;Cidade Baixa;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;A Dama do Lotação;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;Carandiru;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;O Som ao Redor;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;Estômago;ARESTA_GENERO;2
+Ensaio Sobre a Cegueira;Bacurau;ARESTA_GENERO;2
+O Palhaço;Macunaíma;ARESTA_GENERO;2
+O Palhaço;Os Saltimbancos Trapalhões;ARESTA_GENERO;2
+O Palhaço;Minha Mãe é uma Peça;ARESTA_GENERO;2
+O Palhaço;Minha Mãe é uma Peça 3;ARESTA_GENERO;2
+O Palhaço;Minha Mãe é uma Peça 2;ARESTA_GENERO;2
+O Palhaço;A Ilha dos Paqueras;ARESTA_GENERO;2
+O Palhaço;Narradores de Javé;ARESTA_GENERO;2
+Cidade Ameaçada;O Escaravelho do Diabo;ARESTA_GENERO;2
+As Boas Maneiras;O Rastro;ARESTA_GENERO;2
+As Boas Maneiras;Morto Não Fala;ARESTA_GENERO;2
+Paraísos Artificiais;Pixote, a Lei do Mais Fraco;ARESTA_GENERO;2
+Paraísos Artificiais;Linha de Passe;ARESTA_GENERO;2
+Paraísos Artificiais;Casa de Areia;ARESTA_GENERO;2
+Paraísos Artificiais;Mutum;ARESTA_GENERO;2
+Paraísos Artificiais;Central do Brasil;ARESTA_GENERO;2
+Paraísos Artificiais;Dois Filhos de Francisco;ARESTA_GENERO;2
+Paraísos Artificiais;Deus e o Diabo na Terra do Sol;ARESTA_GENERO;2
+Paraísos Artificiais;O Pagador de Promessas;ARESTA_GENERO;2
+Paraísos Artificiais;O Céu de Suely;ARESTA_GENERO;2
+Paraísos Artificiais;Que Horas Ela Volta?;ARESTA_GENERO;2
+Paraísos Artificiais;Cidade Baixa;ARESTA_GENERO;2
+Paraísos Artificiais;A Dama do Lotação;ARESTA_GENERO;2
+Paraísos Artificiais;Carandiru;ARESTA_GENERO;2
+Paraísos Artificiais;O Som ao Redor;ARESTA_GENERO;2
+Paraísos Artificiais;Estômago;ARESTA_GENERO;2
+Paraísos Artificiais;Bacurau;ARESTA_GENERO;2
+Pixote, a Lei do Mais Fraco;Linha de Passe;ARESTA_GENERO;2
+Pixote, a Lei do Mais Fraco;Casa de Areia;ARESTA_GENERO;2
+Pixote, a Lei do Mais Fraco;Mutum;ARESTA_GENERO;2
+Pixote, a Lei do Mais Fraco;Central do Brasil;ARESTA_GENERO;2
+Pixote, a Lei do Mais Fraco;Dois Filhos de Francisco;ARESTA_GENERO;2
+Pixote, a Lei do Mais Fraco;Deus e o Diabo na Terra do Sol;ARESTA_GENERO;2
+Pixote, a Lei do Mais Fraco;O Pagador de Promessas;ARESTA_GENERO;2
+Pixote, a Lei do Mais Fraco;O Céu de Suely;ARESTA_GENERO;2
+Pixote, a Lei do Mais Fraco;Que Horas Ela Volta?;ARESTA_GENERO;2
+Pixote, a Lei do Mais Fraco;Cidade Baixa;ARESTA_GENERO;2
+Pixote, a Lei do Mais Fraco;A Dama do Lotação;ARESTA_GENERO;2
+Pixote, a Lei do Mais Fraco;Carandiru;ARESTA_GENERO;2
+Pixote, a Lei do Mais Fraco;O Som ao Redor;ARESTA_GENERO;2
+Pixote, a Lei do Mais Fraco;Estômago;ARESTA_GENERO;2
+Pixote, a Lei do Mais Fraco;Bacurau;ARESTA_GENERO;2
+Linha de Passe;Casa de Areia;ARESTA_GENERO;2
+Linha de Passe;Mutum;ARESTA_GENERO;2
+Linha de Passe;Central do Brasil;ARESTA_GENERO;2
+Linha de Passe;Dois Filhos de Francisco;ARESTA_GENERO;2
+Linha de Passe;Deus e o Diabo na Terra do Sol;ARESTA_GENERO;2
+Linha de Passe;O Pagador de Promessas;ARESTA_GENERO;2
+Linha de Passe;O Céu de Suely;ARESTA_GENERO;2
+Linha de Passe;Que Horas Ela Volta?;ARESTA_GENERO;2
+Linha de Passe;Cidade Baixa;ARESTA_GENERO;2
+Linha de Passe;A Dama do Lotação;ARESTA_GENERO;2
+Linha de Passe;Carandiru;ARESTA_GENERO;2
+Linha de Passe;O Som ao Redor;ARESTA_GENERO;2
+Linha de Passe;Estômago;ARESTA_GENERO;2
+Linha de Passe;Bacurau;ARESTA_GENERO;2
+Macunaíma;Os Saltimbancos Trapalhões;ARESTA_GENERO;2
+Macunaíma;Minha Mãe é uma Peça;ARESTA_GENERO;2
+Macunaíma;Minha Mãe é uma Peça 3;ARESTA_GENERO;2
+Macunaíma;Minha Mãe é uma Peça 2;ARESTA_GENERO;2
+Macunaíma;A Ilha dos Paqueras;ARESTA_GENERO;2
+Macunaíma;Narradores de Javé;ARESTA_GENERO;2
+O Rastro;Morto Não Fala;ARESTA_GENERO;2
+Os Saltimbancos Trapalhões;Minha Mãe é uma Peça;ARESTA_GENERO;2
+Os Saltimbancos Trapalhões;Minha Mãe é uma Peça 3;ARESTA_GENERO;2
+Os Saltimbancos Trapalhões;Minha Mãe é uma Peça 2;ARESTA_GENERO;2
+Os Saltimbancos Trapalhões;A Ilha dos Paqueras;ARESTA_GENERO;2
+Os Saltimbancos Trapalhões;Narradores de Javé;ARESTA_GENERO;2
+Turma da Mônica: Laços;Bye Bye Brasil;ARESTA_GENERO;2
+Turma da Mônica: Laços;Turma da Mônica: Lições;ARESTA_GENERO;2
+Casa de Areia;Mutum;ARESTA_GENERO;2
+Casa de Areia;Central do Brasil;ARESTA_GENERO;2
+Casa de Areia;Dois Filhos de Francisco;ARESTA_GENERO;2
+Casa de Areia;Deus e o Diabo na Terra do Sol;ARESTA_GENERO;2
+Casa de Areia;O Pagador de Promessas;ARESTA_GENERO;2
+Casa de Areia;O Céu de Suely;ARESTA_GENERO;2
+Casa de Areia;Que Horas Ela Volta?;ARESTA_GENERO;2
+Casa de Areia;Cidade Baixa;ARESTA_GENERO;2
+Casa de Areia;A Dama do Lotação;ARESTA_GENERO;2
+Casa de Areia;Carandiru;ARESTA_GENERO;2
+Casa de Areia;O Som ao Redor;ARESTA_GENERO;2
+Casa de Areia;Estômago;ARESTA_GENERO;2
+Casa de Areia;Bacurau;ARESTA_GENERO;2
+Minha Mãe é uma Peça;Minha Mãe é uma Peça 3;ARESTA_GENERO;2
+Minha Mãe é uma Peça;Minha Mãe é uma Peça 2;ARESTA_GENERO;2
+Minha Mãe é uma Peça;A Ilha dos Paqueras;ARESTA_GENERO;2
+Minha Mãe é uma Peça;Narradores de Javé;ARESTA_GENERO;2
+Bye Bye Brasil;Turma da Mônica: Lições;ARESTA_GENERO;2
+Minha Mãe é uma Peça 3;Minha Mãe é uma Peça 2;ARESTA_GENERO;2
+Minha Mãe é uma Peça 3;A Ilha dos Paqueras;ARESTA_GENERO;2
+Minha Mãe é uma Peça 3;Narradores de Javé;ARESTA_GENERO;2
+Minha Mãe é uma Peça 2;A Ilha dos Paqueras;ARESTA_GENERO;2
+Minha Mãe é uma Peça 2;Narradores de Javé;ARESTA_GENERO;2
+Mutum;Central do Brasil;ARESTA_GENERO;2
+Mutum;Dois Filhos de Francisco;ARESTA_GENERO;2
+Mutum;Deus e o Diabo na Terra do Sol;ARESTA_GENERO;2
+Mutum;O Pagador de Promessas;ARESTA_GENERO;2
+Mutum;O Céu de Suely;ARESTA_GENERO;2
+Mutum;Que Horas Ela Volta?;ARESTA_GENERO;2
+Mutum;Cidade Baixa;ARESTA_GENERO;2
+Mutum;A Dama do Lotação;ARESTA_GENERO;2
+Mutum;Carandiru;ARESTA_GENERO;2
+Mutum;O Som ao Redor;ARESTA_GENERO;2
+Mutum;Estômago;ARESTA_GENERO;2
+Mutum;Bacurau;ARESTA_GENERO;2
+Cidade de Deus;Tropa de Elite;ARESTA_GENERO;2
+Cidade de Deus;Tropa de Elite 2;ARESTA_GENERO;2
+Cidade de Deus;O Cangaceiro;ARESTA_GENERO;2
+Central do Brasil;Dois Filhos de Francisco;ARESTA_GENERO;2
+Central do Brasil;Deus e o Diabo na Terra do Sol;ARESTA_GENERO;2
+Central do Brasil;O Pagador de Promessas;ARESTA_GENERO;2
+Central do Brasil;O Céu de Suely;ARESTA_GENERO;2
+Central do Brasil;Que Horas Ela Volta?;ARESTA_GENERO;2
+Central do Brasil;Cidade Baixa;ARESTA_GENERO;2
+Central do Brasil;A Dama do Lotação;ARESTA_GENERO;2
+Central do Brasil;Carandiru;ARESTA_GENERO;2
+Central do Brasil;O Som ao Redor;ARESTA_GENERO;2
+Central do Brasil;Estômago;ARESTA_GENERO;2
+Central do Brasil;Bacurau;ARESTA_GENERO;2
+Dois Filhos de Francisco;Deus e o Diabo na Terra do Sol;ARESTA_GENERO;2
+Dois Filhos de Francisco;O Pagador de Promessas;ARESTA_GENERO;2
+Dois Filhos de Francisco;O Céu de Suely;ARESTA_GENERO;2
+Dois Filhos de Francisco;Que Horas Ela Volta?;ARESTA_GENERO;2
+Dois Filhos de Francisco;Cidade Baixa;ARESTA_GENERO;2
+Dois Filhos de Francisco;A Dama do Lotação;ARESTA_GENERO;2
+Dois Filhos de Francisco;Carandiru;ARESTA_GENERO;2
+Dois Filhos de Francisco;O Som ao Redor;ARESTA_GENERO;2
+Dois Filhos de Francisco;Estômago;ARESTA_GENERO;2
+Dois Filhos de Francisco;Bacurau;ARESTA_GENERO;2
+Deus e o Diabo na Terra do Sol;O Pagador de Promessas;ARESTA_GENERO;2
+Deus e o Diabo na Terra do Sol;O Céu de Suely;ARESTA_GENERO;2
+Deus e o Diabo na Terra do Sol;Que Horas Ela Volta?;ARESTA_GENERO;2
+Deus e o Diabo na Terra do Sol;Cidade Baixa;ARESTA_GENERO;2
+Deus e o Diabo na Terra do Sol;A Dama do Lotação;ARESTA_GENERO;2
+Deus e o Diabo na Terra do Sol;Carandiru;ARESTA_GENERO;2
+Deus e o Diabo na Terra do Sol;O Som ao Redor;ARESTA_GENERO;2
+Deus e o Diabo na Terra do Sol;Estômago;ARESTA_GENERO;2
+Deus e o Diabo na Terra do Sol;Bacurau;ARESTA_GENERO;2
+Tropa de Elite;Tropa de Elite 2;ARESTA_GENERO;2
+Tropa de Elite;O Cangaceiro;ARESTA_GENERO;2
+O Pagador de Promessas;O Céu de Suely;ARESTA_GENERO;2
+O Pagador de Promessas;Que Horas Ela Volta?;ARESTA_GENERO;2
+O Pagador de Promessas;Cidade Baixa;ARESTA_GENERO;2
+O Pagador de Promessas;A Dama do Lotação;ARESTA_GENERO;2
+O Pagador de Promessas;Carandiru;ARESTA_GENERO;2
+O Pagador de Promessas;O Som ao Redor;ARESTA_GENERO;2
+O Pagador de Promessas;Estômago;ARESTA_GENERO;2
+O Pagador de Promessas;Bacurau;ARESTA_GENERO;2
+O Céu de Suely;Que Horas Ela Volta?;ARESTA_GENERO;2
+O Céu de Suely;Cidade Baixa;ARESTA_GENERO;2
+O Céu de Suely;A Dama do Lotação;ARESTA_GENERO;2
+O Céu de Suely;Carandiru;ARESTA_GENERO;2
+O Céu de Suely;O Som ao Redor;ARESTA_GENERO;2
+O Céu de Suely;Estômago;ARESTA_GENERO;2
+O Céu de Suely;Bacurau;ARESTA_GENERO;2
+Lisbela e o Prisioneiro;Hoje Eu Quero Voltar Sozinho;ARESTA_GENERO;2
+A Ilha dos Paqueras;Narradores de Javé;ARESTA_GENERO;2
+Que Horas Ela Volta?;Cidade Baixa;ARESTA_GENERO;2
+Que Horas Ela Volta?;A Dama do Lotação;ARESTA_GENERO;2
+Que Horas Ela Volta?;Carandiru;ARESTA_GENERO;2
+Que Horas Ela Volta?;O Som ao Redor;ARESTA_GENERO;2
+Que Horas Ela Volta?;Estômago;ARESTA_GENERO;2
+Que Horas Ela Volta?;Bacurau;ARESTA_GENERO;2
+Tropa de Elite 2;O Cangaceiro;ARESTA_GENERO;2
+Cidade Baixa;A Dama do Lotação;ARESTA_GENERO;2
+Cidade Baixa;Carandiru;ARESTA_GENERO;2
+Cidade Baixa;O Som ao Redor;ARESTA_GENERO;2
+Cidade Baixa;Estômago;ARESTA_GENERO;2
+Cidade Baixa;Bacurau;ARESTA_GENERO;2
+A Dama do Lotação;Carandiru;ARESTA_GENERO;2
+A Dama do Lotação;O Som ao Redor;ARESTA_GENERO;2
+A Dama do Lotação;Estômago;ARESTA_GENERO;2
+A Dama do Lotação;Bacurau;ARESTA_GENERO;2
+Carandiru;O Som ao Redor;ARESTA_GENERO;2
+Carandiru;Estômago;ARESTA_GENERO;2
+Carandiru;Bacurau;ARESTA_GENERO;2
+O Som ao Redor;Estômago;ARESTA_GENERO;2
+O Som ao Redor;Bacurau;ARESTA_GENERO;2
+Estômago;Bacurau;ARESTA_GENERO;2
+A Máquina;Tropa de Elite;ARESTA_ATOR;1
+A Máquina;Tropa de Elite 2;ARESTA_ATOR;1
+A Máquina;Cidade Baixa;ARESTA_ATOR;2
+A Máquina;Carandiru;ARESTA_ATOR;1
+Castelo Rá-Tim-Bum, o Filme;O Auto da Compadecida;ARESTA_ATOR;1
+Castelo Rá-Tim-Bum, o Filme;Cidade de Deus;ARESTA_ATOR;1
+Castelo Rá-Tim-Bum, o Filme;Narradores de Javé;ARESTA_ATOR;1
+O Auto da Compadecida;Castelo Rá-Tim-Bum, o Filme;ARESTA_ATOR;1
+O Auto da Compadecida;O Palhaço;ARESTA_ATOR;1
+O Auto da Compadecida;Casa de Areia;ARESTA_ATOR;1
+O Auto da Compadecida;Cidade de Deus;ARESTA_ATOR;1
 O Auto da Compadecida;Central do Brasil;ARESTA_ATOR;1
 O Auto da Compadecida;Lisbela e o Prisioneiro;ARESTA_ATOR;1
-Narradores de Javé;O Auto da Compadecida;ARESTA_ATOR;1
-Carandiru;Tropa de Elite 2;ARESTA_ATOR;1
-Carandiru;Tropa de Elite;ARESTA_ATOR;1
-Carandiru;Cidade Baixa;ARESTA_ATOR;2
+O Auto da Compadecida;Narradores de Javé;ARESTA_ATOR;1
+O Ano em que Meus Pais Saíram de Férias;Que Horas Ela Volta?;ARESTA_ATOR;1
 Marighella;Aquarius;ARESTA_ATOR;1
 Marighella;Cidade de Deus;ARESTA_ATOR;1
-Aquarius;Tropa de Elite 2;ARESTA_ATOR;1
 Aquarius;Marighella;ARESTA_ATOR;1
+Aquarius;Tropa de Elite 2;ARESTA_ATOR;1
+Aquarius;A Dama do Lotação;ARESTA_ATOR;1
 Aquarius;O Som ao Redor;ARESTA_ATOR;2
 Aquarius;Bacurau;ARESTA_ATOR;1
-Cidade de Deus;Cidade Baixa;ARESTA_ATOR;1
+Ensaio Sobre a Cegueira;Cidade de Deus;ARESTA_ATOR;1
+Ensaio Sobre a Cegueira;Cidade Baixa;ARESTA_ATOR;1
+O Palhaço;O Auto da Compadecida;ARESTA_ATOR;1
+O Palhaço;Macunaíma;ARESTA_ATOR;1
+O Palhaço;Lisbela e o Prisioneiro;ARESTA_ATOR;1
+Cidade Ameaçada;O Pagador de Promessas;ARESTA_ATOR;1
+Pixote, a Lei do Mais Fraco;Macunaíma;ARESTA_ATOR;1
+Pixote, a Lei do Mais Fraco;Central do Brasil;ARESTA_ATOR;1
+Linha de Passe;Central do Brasil;ARESTA_ATOR;1
+Macunaíma;O Palhaço;ARESTA_ATOR;1
+Macunaíma;Pixote, a Lei do Mais Fraco;ARESTA_ATOR;1
+Os Saltimbancos Trapalhões;Os Trapalhões na Guerra dos Planetas;ARESTA_ATOR;4
+Turma da Mônica: Laços;Turma da Mônica: Lições;ARESTA_ATOR;4
+Casa de Areia;O Auto da Compadecida;ARESTA_ATOR;1
+Casa de Areia;Central do Brasil;ARESTA_ATOR;1
+Minha Mãe é uma Peça;Minha Mãe é uma Peça 3;ARESTA_ATOR;3
+Minha Mãe é uma Peça;Minha Mãe é uma Peça 2;ARESTA_ATOR;3
+Minha Mãe é uma Peça 3;Minha Mãe é uma Peça;ARESTA_ATOR;3
+Minha Mãe é uma Peça 3;Minha Mãe é uma Peça 2;ARESTA_ATOR;3
+Minha Mãe é uma Peça 2;Minha Mãe é uma Peça;ARESTA_ATOR;3
+Minha Mãe é uma Peça 2;Minha Mãe é uma Peça 3;ARESTA_ATOR;3
+Mutum;O Céu de Suely;ARESTA_ATOR;1
+Mutum;Estômago;ARESTA_ATOR;1
+Cidade de Deus;Castelo Rá-Tim-Bum, o Filme;ARESTA_ATOR;1
+Cidade de Deus;O Auto da Compadecida;ARESTA_ATOR;1
 Cidade de Deus;Marighella;ARESTA_ATOR;1
-O Som ao Redor;Tropa de Elite 2;ARESTA_ATOR;1
-O Som ao Redor;Aquarius;ARESTA_ATOR;2
+Cidade de Deus;Ensaio Sobre a Cegueira;ARESTA_ATOR;1
+Cidade de Deus;Cidade Baixa;ARESTA_ATOR;1
+Cidade de Deus;Narradores de Javé;ARESTA_ATOR;1
 Central do Brasil;O Auto da Compadecida;ARESTA_ATOR;1
+Central do Brasil;Pixote, a Lei do Mais Fraco;ARESTA_ATOR;1
+Central do Brasil;Linha de Passe;ARESTA_ATOR;1
+Central do Brasil;Casa de Areia;ARESTA_ATOR;1
+Central do Brasil;Deus e o Diabo na Terra do Sol;ARESTA_ATOR;1
+Deus e o Diabo na Terra do Sol;Central do Brasil;ARESTA_ATOR;1
+Os Trapalhões na Guerra dos Planetas;Os Saltimbancos Trapalhões;ARESTA_ATOR;4
+Tropa de Elite;A Máquina;ARESTA_ATOR;1
+Tropa de Elite;Tropa de Elite 2;ARESTA_ATOR;1
+Tropa de Elite;Cidade Baixa;ARESTA_ATOR;2
+Tropa de Elite;Carandiru;ARESTA_ATOR;1
+O Pagador de Promessas;Cidade Ameaçada;ARESTA_ATOR;1
+O Céu de Suely;Mutum;ARESTA_ATOR;1
+O Céu de Suely;Estômago;ARESTA_ATOR;1
 Lisbela e o Prisioneiro;O Auto da Compadecida;ARESTA_ATOR;1
+Lisbela e o Prisioneiro;O Palhaço;ARESTA_ATOR;1
+Que Horas Ela Volta?;O Ano em que Meus Pais Saíram de Férias;ARESTA_ATOR;1
+Tropa de Elite 2;A Máquina;ARESTA_ATOR;1
+Tropa de Elite 2;Aquarius;ARESTA_ATOR;1
+Tropa de Elite 2;Tropa de Elite;ARESTA_ATOR;1
+Tropa de Elite 2;Cidade Baixa;ARESTA_ATOR;2
+Tropa de Elite 2;Carandiru;ARESTA_ATOR;1
+Tropa de Elite 2;O Som ao Redor;ARESTA_ATOR;1
+Turma da Mônica: Lições;Turma da Mônica: Laços;ARESTA_ATOR;4
+Cidade Baixa;A Máquina;ARESTA_ATOR;2
+Cidade Baixa;Ensaio Sobre a Cegueira;ARESTA_ATOR;1
+Cidade Baixa;Cidade de Deus;ARESTA_ATOR;1
+Cidade Baixa;Tropa de Elite;ARESTA_ATOR;2
+Cidade Baixa;Tropa de Elite 2;ARESTA_ATOR;2
+Cidade Baixa;Carandiru;ARESTA_ATOR;3
+A Dama do Lotação;Aquarius;ARESTA_ATOR;1
+A Dama do Lotação;Bacurau;ARESTA_ATOR;1
+Narradores de Javé;Castelo Rá-Tim-Bum, o Filme;ARESTA_ATOR;1
+Narradores de Javé;O Auto da Compadecida;ARESTA_ATOR;1
+Narradores de Javé;Cidade de Deus;ARESTA_ATOR;1
+Carandiru;A Máquina;ARESTA_ATOR;1
+Carandiru;Tropa de Elite;ARESTA_ATOR;1
+Carandiru;Tropa de Elite 2;ARESTA_ATOR;1
+Carandiru;Cidade Baixa;ARESTA_ATOR;3
+Morto Não Fala;Estômago;ARESTA_ATOR;1
+O Som ao Redor;Aquarius;ARESTA_ATOR;2
+O Som ao Redor;Tropa de Elite 2;ARESTA_ATOR;1
+Estômago;Mutum;ARESTA_ATOR;1
+Estômago;O Céu de Suely;ARESTA_ATOR;1
+Estômago;Morto Não Fala;ARESTA_ATOR;1
 Bacurau;Aquarius;ARESTA_ATOR;1
-Que Horas Ela Volta?;Cidade Baixa;ARESTA_GENERO;2
-Que Horas Ela Volta?;O Pagador de Promessas;ARESTA_GENERO;2
-Que Horas Ela Volta?;Carandiru;ARESTA_GENERO;2
-Que Horas Ela Volta?;Aquarius;ARESTA_GENERO;2
-Que Horas Ela Volta?;O Som ao Redor;ARESTA_GENERO;2
-Que Horas Ela Volta?;Central do Brasil;ARESTA_GENERO;2
-Tropa de Elite 2;Tropa de Elite;ARESTA_GENERO;2
-Cidade Baixa;O Pagador de Promessas;ARESTA_GENERO;2
-Cidade Baixa;Carandiru;ARESTA_GENERO;2
-Cidade Baixa;Aquarius;ARESTA_GENERO;2
-Cidade Baixa;O Som ao Redor;ARESTA_GENERO;2
-Cidade Baixa;Central do Brasil;ARESTA_GENERO;2
-O Pagador de Promessas;Carandiru;ARESTA_GENERO;2
-O Pagador de Promessas;Aquarius;ARESTA_GENERO;2
-O Pagador de Promessas;O Som ao Redor;ARESTA_GENERO;2
-O Pagador de Promessas;Central do Brasil;ARESTA_GENERO;2
-O Auto da Compadecida;Narradores de Javé;ARESTA_GENERO;2
-O Auto da Compadecida;Macunaíma;ARESTA_GENERO;2
-Narradores de Javé;Macunaíma;ARESTA_GENERO;2
-Carandiru;Aquarius;ARESTA_GENERO;2
-Carandiru;O Som ao Redor;ARESTA_GENERO;2
-Carandiru;Central do Brasil;ARESTA_GENERO;2
-Marighella;Elis;ARESTA_GENERO;2
-Aquarius;O Som ao Redor;ARESTA_GENERO;2
-Aquarius;Central do Brasil;ARESTA_GENERO;2
-O Som ao Redor;Central do Brasil;ARESTA_GENERO;2
+Bacurau;A Dama do Lotação;ARESTA_ATOR;1
 
 
 
